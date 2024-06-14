@@ -1,1 +1,4 @@
-# my_obsidian_setting
+# obsidian设置
+
+ 
+
