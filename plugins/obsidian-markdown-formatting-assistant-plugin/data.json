@@ -2,7 +2,9 @@
   "triggerChar": "/",
   "sidePaneSideLeft": false,
   "savedColors": [
-    "#ff0000"
+    "#ff0000",
+    "#53d089",
+    "#58df93"
   ],
   "aviabileRegions": [
     "textEdit",
@@ -42,7 +44,7 @@
     {
       "name": "colors",
       "active": true,
-      "visible": false
+      "visible": true
     },
     {
       "name": "callouts",

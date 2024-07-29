@@ -1,4 +1,10 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Arial",
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "nativeMenus": false
 }

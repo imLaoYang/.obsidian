@@ -1,35 +1,48 @@
 {
   "main": {
-    "id": "fd3976d906c40e2d",
+    "id": "b04ecfe8db535d75",
     "type": "split",
     "children": [
       {
-        "id": "7f3086315cb737aa",
+        "id": "f3ada976d5196460",
         "type": "tabs",
         "children": [
           {
-            "id": "c565b892de4846d1",
+            "id": "3fd25ffc0915cd16",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "pkmer-downloader",
               "state": {}
             }
+          },
+          {
+            "id": "2bd76bc3f7aad9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e0f50b3dfd253f4c",
+    "id": "7b9e3b18fb1b8996",
     "type": "split",
     "children": [
       {
-        "id": "febe665af3276517",
+        "id": "e569ead12f6632b3",
         "type": "tabs",
         "children": [
           {
-            "id": "17805fff6b47c7e4",
+            "id": "a9d18c61c69abbca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +52,7 @@
             }
           },
           {
-            "id": "f5679ed79d4d764d",
+            "id": "9983e51127f028e5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +67,7 @@
             }
           },
           {
-            "id": "7d170d3392fe4574",
+            "id": "82401d6aef58ff66",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +78,64 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 200
   },
   "right": {
-    "id": "904c8d7d7d2a60cb",
+    "id": "7626999e6ab7dcc4",
     "type": "split",
     "children": [
       {
-        "id": "a5a0db935d04bbfb",
+        "id": "d38596db5bf34b9e",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb0c272094b3d83",
+            "id": "5466c51453117706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dev.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9527ec410d489d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "360c528436c35647",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dev.md"
+              }
+            }
+          },
+          {
+            "id": "16f91fd4f114de90",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2df25fc8bfa007af",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,60 +147,70 @@
             }
           },
           {
-            "id": "d438d0d3d3ea3884",
+            "id": "954195e40aad8a4e",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "231a63c7f3bc130a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "6eb66ea3bda84a86",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "side-panel-control-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "17805fff6b47c7e4",
+  "active": "2bd76bc3f7aad9c9",
   "lastOpenFiles": [
-    "需求/管理端需求.doc",
-    "需求",
-    "2024-03-21.md",
-    "未命名",
-    "create a link.md",
-    "Welcome.md"
+    "语言/Erlang/otp/gen_server.md",
+    "语言/Erlang/otp/application.md",
+    "语言/Rust.md",
+    "语言/Erlang/otp/assets/application/image-20240721223123733.png",
+    "语言/Erlang/otp/assets/application/image-20240721222612877.png",
+    "语言/Erlang/otp/assets/application/image-20240721222949410.png",
+    "语言/Erlang/otp/assets/application/image-20240721223111891.png",
+    "语言/Erlang/otp/assets/application/image-20240721222914274.png",
+    "语言/Erlang/otp/assets/application/image-20240721222635585.png",
+    "语言/Erlang/otp/assets/application",
+    "语言/Erlang/otp/assets",
+    "内功/TCPIP.md",
+    "未命名 1.md",
+    "内功",
+    "框架/rabbitmq/rabbitmq启动有向图.canvas",
+    "框架/rabbitmq/rabbitmq.md",
+    "框架/rabbitmq/graphviz.svg",
+    "语言/Erlang",
+    "语言",
+    "框架/rabbitmq",
+    "框架",
+    "语言/Erlang/otp",
+    "boot_steps.png",
+    "Notes/graphviz.svg",
+    "Notes/rabbitmq启动有向图.canvas",
+    "Notes/rabbitmq.md",
+    "Notes/boot_steps.png",
+    "Notes/boot_steps.png.crdownload",
+    "Notes/otp.md",
+    "Excalidraw/Drawing 2024-06-23 15.56.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-23 11.44.05.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-23 11.48.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-23 11.48.50.excalidraw.md",
+    "Excalidraw",
+    "erlanger.slack.com.md",
+    "book/10_Essential_Erlang_Tools_for_Erlang_Developers.md"
   ]
 }

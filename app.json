@@ -1,1 +1,10 @@
-{}
+{
+  "attachmentFolderPath": "./assets/dev",
+  "spellcheck": false,
+  "promptDelete": false,
+  "showLineNumber": false,
+  "strictLineBreaks": true,
+  "showIndentGuide": false,
+  "vimMode": false,
+  "tabSize": 2
+}
