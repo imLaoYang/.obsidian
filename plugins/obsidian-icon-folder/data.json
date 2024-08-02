@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiNetwork",
+      "🖥",
+      "LiCode2",
+      "LiFolder",
+      "LiImage"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "语言/Rust.md": {
+    "iconName": "FabRust",
+    "iconColor": "#c46d1c"
+  },
+  "框架": "LiFolder",
+  "语言": "LiCode2",
+  "语言/Erlang": {
+    "iconName": "FabErlang",
+    "iconColor": "#9a1313"
+  },
+  "语言/Erlang/otp": "FabMarkdown",
+  "语言/Erlang/otp/gen_server.md": "LiServerCrash",
+  "框架/rabbitmq": "🐇",
+  "框架/rabbitmq/graphviz.svg": {
+    "iconName": "LiImage",
+    "iconColor": "#91b2f2"
+  },
+  "框架/rabbitmq/rabbitmq.md": "FabMarkdown",
+  "框架/rabbitmq/rabbitmq启动有向图.canvas": "LiImage",
+  "内功": "🖥",
+  "内功/TCPIP.md": "LiNetwork",
+  "语言/Erlang/otp/application.md": "LiNetwork"
+}

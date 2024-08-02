@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ada976d5196460",
+        "id": "ae6833329a40ae72",
         "type": "tabs",
         "children": [
           {
-            "id": "2bd76bc3f7aad9c9",
+            "id": "af2f905dce2d7103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e99cffce74bf072e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "demo.md",
+                "file": "咒术/公会战/公会战场.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5086555480957
+    "width": 200
   },
   "right": {
     "id": "7626999e6ab7dcc4",
@@ -97,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev.md",
+                "file": "咒术/公会战/公会战场.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev.md"
+                "file": "咒术/公会战/公会战场.md"
               }
             }
           },
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev.md",
+                "file": "咒术/公会战/公会战场.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,31 +150,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "2bd76bc3f7aad9c9",
+  "active": "af2f905dce2d7103",
   "lastOpenFiles": [
-    "demo.md",
-    "Excalidraw/Drawing 2024-07-09 17.53.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-22 17.37.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-29 10.29.38.excalidraw.md",
-    "dev.md",
-    "语言/Erlang/otp/gen_server.md",
     "语言/Erlang/otp/application.md",
+    "Excalidraw/Drawing 2024-07-31 19.29.54.excalidraw.md",
+    "Excalidraw",
     "语言/Rust.md",
+    "语言/Erlang/otp/gen_server.md",
     "语言/Erlang/otp/assets/application/image-20240721223123733.png",
     "语言/Erlang/otp/assets/application/image-20240721222612877.png",
     "语言/Erlang/otp/assets/application/image-20240721222949410.png",
@@ -217,7 +202,6 @@
     "Excalidraw/Drawing 2024-06-23 11.44.05.excalidraw.md",
     "Excalidraw/Drawing 2024-06-23 11.48.53.excalidraw.md",
     "Excalidraw/Drawing 2024-06-23 11.48.50.excalidraw.md",
-    "Excalidraw",
     "erlanger.slack.com.md",
     "book/10_Essential_Erlang_Tools_for_Erlang_Developers.md"
   ]

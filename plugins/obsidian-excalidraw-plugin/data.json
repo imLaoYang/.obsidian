@@ -7,7 +7,7 @@
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": true,
   "decompressForMDView": false,
-  "onceOffCompressFlagReset": false,
+  "onceOffCompressFlagReset": true,
   "autosave": true,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
@@ -92,7 +92,45 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.7",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "ChmPosQ90vpsMHBMticfM",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "rectangle",
+            "version": 16,
+            "versionNonce": 1361018525,
+            "index": "a0",
+            "isDeleted": false,
+            "id": "bsN1tq0Xwi1fTpiDVUxbR",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -106.95001220703125,
+            "y": -260.4187545776367,
+            "strokeColor": "#db1414",
+            "backgroundColor": "transparent",
+            "width": 174.4000244140625,
+            "height": 60.79998779296875,
+            "seed": 1421630803,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": {
+              "type": 3
+            },
+            "boundElements": [],
+            "updated": 1719115598647,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "created": 1719115618185
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
@@ -103,7 +141,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "0.0.0",
+  "previousRelease": "2.2.7",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
