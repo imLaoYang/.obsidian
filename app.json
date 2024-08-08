@@ -3,8 +3,11 @@
   "spellcheck": false,
   "promptDelete": false,
   "showLineNumber": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showIndentGuide": false,
   "vimMode": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "smartIndentList": false,
+  "readableLineLength": true,
+  "rightToLeft": false
 }
