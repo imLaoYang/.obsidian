@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dc9cfb98e7ccd88",
+            "id": "352b16850f751a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "咒术/公会战/公会战场.md",
+                "file": "项目/咒术/role_trigger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "咒术/公会战/公会战场.md",
+                "file": "项目/咒术/role_trigger.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "咒术/公会战/公会战场.md"
+                "file": "项目/咒术/role_trigger.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "咒术/公会战/公会战场.md",
+                "file": "项目/咒术/role_trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,29 +165,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2dc9cfb98e7ccd88",
+  "active": "a9d18c61c69abbca",
   "lastOpenFiles": [
-    "咒术/公会战/~$D海贼】公会战文档.docx",
+    "语言/Erlang/otp/gen_statem.md",
+    "项目/咒术/role_trigger.md",
+    "项目/咒术",
+    "未命名",
+    "项目",
+    "语言/Erlang/otp/statem/_build/default/lib/statem/ebin/statem_sup.beam",
+    "语言/Erlang/otp/statem/_build/default/lib/statem/ebin/statem_app.beam",
+    "语言/Erlang/otp/statem/_build/default/lib/statem/ebin/statem2.beam",
+    "语言/Erlang/otp/statem/_build/default/lib/statem/ebin/statem.beam",
+    "语言/Erlang/otp/statem/_build/default/lib/statem/ebin/statem.app",
+    "语言/Erlang/otp/statem/_build/default/lib/statem/ebin/fsm.beam",
+    "语言/Erlang/otp/statem/_build/default/lib/statem/ebin/change.beam",
+    "语言/Erlang/otp/statem/README.md",
+    "语言/Erlang/otp/statem/LICENSE.md",
+    "语言/Erlang/otp/application.md",
+    "语言/Erlang/otp/gen_server.md",
     "Excalidraw/Drawing 2024-07-09 17.53.27.excalidraw.md",
     "咒术/公会战/公会战场.md",
     "分享/dl_server2_share/React/React.md",
-    "咒术/未联调/神装碎片/item_data.xml.crdownload",
-    "咒术/未联调/神装碎片/holy_eqm_debris_data.lua",
-    "咒术/未联调/神装碎片/item_data13.lua",
-    "咒术/未联调/神装碎片/item_data.xml",
-    "咒术/未联调/神装碎片/item_data-backup.xml",
-    "咒术/未联调/神装碎片/item_data(7).xml",
-    "咒术/未联调/神装碎片/item_data(7).xml.crdownload",
-    "咒术/未联调/神装碎片/神装碎片client.zip",
-    "咒术/未联调/神装碎片/神装碎片.zip",
     "咒术/未联调/神装碎片/proto.md",
     "咒术/周礼包自选/proto.md",
     "周礼包自选/proto.md",
     "咒术/公会战(1)/公会战原型图.png",
-    "语言/Erlang/otp/application.md",
     "Excalidraw/Drawing 2024-07-31 19.29.54.excalidraw.md",
     "语言/Rust.md",
-    "语言/Erlang/otp/gen_server.md",
     "语言/Erlang/otp/assets/application/image-20240721223123733.png",
     "语言/Erlang/otp/assets/application/image-20240721222612877.png",
     "语言/Erlang/otp/assets/application/image-20240721222949410.png",
